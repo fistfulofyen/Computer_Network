@@ -21,7 +21,6 @@ To get started with this simulation, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine. I used VScode, you can use whatever you like.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for both personal and commercial purposes, with proper attribution.
 
 Copyright (C) ~~our lord and savior~~ Dr. Terence D. Todd Hamilton, Ontario, CANADA,
 Todd@mcmaster.ca
